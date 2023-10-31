@@ -1,0 +1,175 @@
+dbms week 1
+
+
+Pre-lecture Content
+Please go through the following resources to prepare before the lectures :)
+
+- https://www.interviewbit.com/tutorial/dbms/#dbms
+
+- https://www.interviewbit.com/dbms-interview-questions/
+
+- https://www.interviewbit.com/courses/databases/topics/sql-queries/
+
+
+
+
+Post-lecture Content
+Extra notes (covers all of DBMS):
+
+https://docs.google.com/document/d/12VkoaPxBbqf6UYM9Zx7yjWiCD8v2sUhmGuxbelvAwrE/edit
+
+https://docs.google.com/document/d/1mv5a47y4HwGHrIdauJaI8kyjzbDuouViPHbBkgVbTro/edit
+
+
+
+SQL practice:
+
+https://sqlzoo.net/
+
+----------------------------------------------------------------------------------
+week 5 dbms
+
+Please read the following comprehensive notes for this lecture:
+
+Indexing, Transactions and ACID properties: https://docs.google.com/document/d/12VkoaPxBbqf6UYM9Zx7yjWiCD8v2sUhmGuxbelvAwrE/edit
+
+SQL: https://docs.google.com/document/d/1mv5a47y4HwGHrIdauJaI8kyjzbDuouViPHbBkgVbTro/edit
+
+
+
+Please go through the following resources at your own pace! :)
+
+- https://www.interviewbit.com/tutorial/dbms/#dbms
+
+- https://www.interviewbit.com/dbms-interview-questions/
+
+- https://www.interviewbit.com/courses/databases/topics/sql-queries/
+
+
+
+Extra Reading material:
+
+- https://www.itprotoday.com/sql-server/sql-design-choosing-primary-key
+
+- https://www.xplenty.com/blog/which-database/
+
+- https://www.mongodb.com/collateral/top-5-considerations-when-evaluating-nosql-databases
+
+- https://www.mongodb.com/collateral/top-5-considerations-when-evaluating-nosql-databases
+
+- https://www.geeksforgeeks.org/top-7-database-you-must-know-for-software-development-projects/
+
+- https://www.keycdn.com/blog/popular-databases
+
+--------------------------------------------------------------------
+week 2 dbms
+
+
+Pre-lecture Content
+Please read the following comprehensive notes for this lecture:
+
+https://docs.google.com/document/d/12VkoaPxBbqf6UYM9Zx7yjWiCD8v2sUhmGuxbelvAwrE/edit
+
+
+
+Please go through the following resources at your own pace! :)
+
+- https://www.interviewbit.com/tutorial/dbms/#dbms
+
+- https://www.interviewbit.com/dbms-interview-questions/
+
+- https://www.interviewbit.com/courses/databases/topics/sql-queries/
+
+Post-lecture Content
+Extra notes (covers all of DBMS):
+
+https://docs.google.com/document/d/12VkoaPxBbqf6UYM9Zx7yjWiCD8v2sUhmGuxbelvAwrE/edit
+
+https://docs.google.com/document/d/1mv5a47y4HwGHrIdauJaI8kyjzbDuouViPHbBkgVbTro/edit
+
+
+
+Weak entity set:
+
+https://www.geeksforgeeks.org/weak-entity-set-in-er-diagrams/
+
+
+
+SQL practice:
+
+https://sqlzoo.net/
+
+
+
+Extra Reading material:
+
+- https://www.itprotoday.com/sql-server/sql-design-choosing-primary-key
+
+- https://www.xplenty.com/blog/which-database/
+
+- https://www.mongodb.com/collateral/top-5-considerations-when-evaluating-nosql-databases
+
+- https://www.mongodb.com/collateral/top-5-considerations-when-evaluating-nosql-databases
+
+- https://www.geeksforgeeks.org/top-7-database-you-must-know-for-software-development-projects/
+
+- https://www.keycdn.com/blog/popular-databases
+
+----------------------------------------------------------------------------------
+dbms week 3
+
+
+Pre-lecture Content
+Please read the following comprehensive notes for this lecture:
+
+Functional Dependencies, and Normalisation: https://docs.google.com/document/d/12VkoaPxBbqf6UYM9Zx7yjWiCD8v2sUhmGuxbelvAwrE/edit
+
+SQL: https://docs.google.com/document/d/1mv5a47y4HwGHrIdauJaI8kyjzbDuouViPHbBkgVbTro/edit
+
+
+
+Please go through the following resources at your own pace! :)
+
+- https://www.interviewbit.com/tutorial/dbms/#dbms
+
+- https://www.interviewbit.com/dbms-interview-questions/
+
+- https://www.interviewbit.com/courses/databases/topics/sql-queries/
+
+Post-lecture Content
+Software to interact with DB and run SQL queries:
+
+1. Windows: https://www.heidisql.com/download.php
+
+2. Linux: https://dbeaver.io/download/
+
+3. Mac: https://apps.apple.com/us/app/sequel-ace/id1518036000
+
+
+
+MySQL installation: https://www.digitalocean.com/community/tutorial_collections/how-to-install-mysql
+
+
+
+You can use the following restaurant.sql dump file to import the database with some seed data:
+
+https://gist.github.com/sahilbansal11/3500797cc268f3727c649f107d9c186f
+
+----------------------------------------------------------------------------
+dbms week 4
+
+Please read the following comprehensive notes for this lecture:
+
+SQL: https://docs.google.com/document/d/1mv5a47y4HwGHrIdauJaI8kyjzbDuouViPHbBkgVbTro/edit
+
+Transactions and ACID properties: https://docs.google.com/document/d/12VkoaPxBbqf6UYM9Zx7yjWiCD8v2sUhmGuxbelvAwrE/edit
+
+
+
+Please go through the following resources at your own pace! :)
+
+- https://www.interviewbit.com/tutorial/dbms/#dbms
+
+- https://www.interviewbit.com/dbms-interview-questions/
+
+- https://www.interviewbit.com/courses/databases/topics/sql-queries/
